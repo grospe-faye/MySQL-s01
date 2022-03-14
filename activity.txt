@@ -1,2 +1,10 @@
 --Mini Activity--
 https://docs.google.com/document/d/1blBmicvpbaSHwWOdpzR9NrbezHAnTCyC0K0VAPIq3bU/edit?usp=sharing
+
+--Activity Solution--
+1. List the books authored by Marjorie Green.
+2. List the books authored by Michael O'Leary.
+3. Write the author/s of "The Busy Executives Database Guide".
+4. Identify the publisher of "But Is It User Friendly?".
+5. List the books published by Algodata Infosystems
+
